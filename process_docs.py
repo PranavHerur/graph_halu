@@ -15,7 +15,7 @@ def _load_labels_as_map(dataset: str, subset: str) -> Dict[str, int]:
 
 def _get_corpus(dataset: str, subset: str) -> Tuple[Dict[str, Any], Dict[str, int]]:
     with open(f"calamr_input/{dataset}/{subset}/calamr_data.json") as f:
-        corpus = json.load(f)[:5]
+        corpus = json.load(f)
 
     labels = _load_labels_as_map(dataset=dataset, subset=subset)
 
