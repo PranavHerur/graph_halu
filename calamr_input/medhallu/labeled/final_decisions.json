@@ -1,0 +1,8002 @@
+[
+  {
+    "id": "labeled_0_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_0_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_1_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_1_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_2_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_2_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_3_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_3_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_4_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_4_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_5_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_5_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_6_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_6_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_7_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_7_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_8_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_8_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_9_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_9_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_10_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_10_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_11_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_11_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_12_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_12_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_13_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_13_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_14_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_14_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_15_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_15_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_16_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_16_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_17_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_17_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_18_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_18_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_19_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_19_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_20_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_20_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_21_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_21_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_22_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_22_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_23_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_23_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_24_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_24_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_25_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_25_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_26_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_26_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_27_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_27_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_28_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_28_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_29_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_29_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_30_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_30_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_31_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_31_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_32_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_32_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_33_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_33_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_34_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_34_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_35_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_35_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_36_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_36_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_37_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_37_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_38_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_38_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_39_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_39_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_40_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_40_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_41_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_41_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_42_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_42_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_43_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_43_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_44_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_44_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_45_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_45_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_46_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_46_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_47_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_47_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_48_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_48_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_49_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_49_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_50_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_50_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_51_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_51_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_52_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_52_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_53_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_53_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_54_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_54_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_55_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_55_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_56_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_56_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_57_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_57_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_58_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_58_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_59_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_59_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_60_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_60_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_61_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_61_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_62_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_62_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_63_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_63_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_64_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_64_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_65_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_65_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_66_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_66_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_67_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_67_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_68_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_68_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_69_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_69_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_70_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_70_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_71_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_71_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_72_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_72_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_73_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_73_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_74_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_74_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_75_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_75_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_76_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_76_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_77_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_77_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_78_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_78_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_79_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_79_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_80_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_80_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_81_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_81_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_82_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_82_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_83_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_83_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_84_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_84_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_85_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_85_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_86_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_86_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_87_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_87_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_88_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_88_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_89_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_89_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_90_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_90_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_91_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_91_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_92_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_92_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_93_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_93_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_94_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_94_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_95_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_95_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_96_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_96_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_97_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_97_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_98_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_98_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_99_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_99_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_100_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_100_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_101_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_101_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_102_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_102_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_103_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_103_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_104_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_104_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_105_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_105_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_106_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_106_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_107_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_107_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_108_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_108_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_109_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_109_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_110_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_110_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_111_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_111_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_112_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_112_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_113_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_113_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_114_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_114_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_115_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_115_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_116_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_116_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_117_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_117_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_118_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_118_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_119_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_119_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_120_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_120_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_121_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_121_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_122_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_122_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_123_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_123_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_124_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_124_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_125_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_125_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_126_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_126_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_127_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_127_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_128_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_128_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_129_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_129_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_130_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_130_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_131_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_131_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_132_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_132_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_133_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_133_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_134_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_134_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_135_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_135_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_136_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_136_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_137_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_137_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_138_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_138_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_139_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_139_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_140_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_140_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_141_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_141_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_142_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_142_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_143_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_143_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_144_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_144_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_145_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_145_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_146_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_146_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_147_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_147_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_148_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_148_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_149_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_149_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_150_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_150_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_151_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_151_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_152_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_152_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_153_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_153_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_154_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_154_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_155_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_155_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_156_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_156_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_157_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_157_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_158_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_158_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_159_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_159_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_160_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_160_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_161_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_161_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_162_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_162_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_163_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_163_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_164_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_164_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_165_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_165_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_166_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_166_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_167_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_167_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_168_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_168_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_169_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_169_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_170_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_170_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_171_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_171_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_172_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_172_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_173_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_173_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_174_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_174_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_175_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_175_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_176_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_176_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_177_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_177_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_178_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_178_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_179_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_179_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_180_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_180_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_181_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_181_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_182_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_182_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_183_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_183_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_184_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_184_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_185_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_185_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_186_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_186_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_187_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_187_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_188_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_188_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_189_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_189_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_190_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_190_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_191_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_191_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_192_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_192_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_193_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_193_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_194_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_194_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_195_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_195_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_196_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_196_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_197_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_197_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_198_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_198_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_199_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_199_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_200_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_200_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_201_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_201_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_202_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_202_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_203_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_203_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_204_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_204_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_205_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_205_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_206_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_206_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_207_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_207_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_208_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_208_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_209_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_209_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_210_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_210_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_211_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_211_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_212_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_212_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_213_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_213_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_214_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_214_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_215_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_215_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_216_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_216_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_217_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_217_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_218_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_218_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_219_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_219_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_220_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_220_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_221_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_221_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_222_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_222_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_223_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_223_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_224_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_224_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_225_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_225_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_226_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_226_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_227_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_227_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_228_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_228_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_229_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_229_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_230_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_230_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_231_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_231_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_232_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_232_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_233_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_233_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_234_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_234_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_235_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_235_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_236_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_236_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_237_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_237_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_238_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_238_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_239_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_239_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_240_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_240_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_241_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_241_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_242_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_242_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_243_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_243_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_244_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_244_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_245_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_245_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_246_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_246_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_247_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_247_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_248_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_248_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_249_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_249_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_250_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_250_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_251_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_251_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_252_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_252_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_253_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_253_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_254_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_254_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_255_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_255_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_256_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_256_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_257_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_257_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_258_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_258_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_259_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_259_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_260_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_260_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_261_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_261_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_262_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_262_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_263_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_263_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_264_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_264_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_265_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_265_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_266_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_266_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_267_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_267_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_268_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_268_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_269_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_269_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_270_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_270_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_271_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_271_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_272_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_272_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_273_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_273_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_274_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_274_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_275_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_275_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_276_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_276_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_277_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_277_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_278_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_278_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_279_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_279_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_280_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_280_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_281_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_281_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_282_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_282_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_283_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_283_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_284_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_284_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_285_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_285_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_286_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_286_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_287_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_287_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_288_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_288_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_289_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_289_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_290_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_290_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_291_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_291_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_292_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_292_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_293_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_293_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_294_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_294_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_295_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_295_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_296_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_296_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_297_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_297_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_298_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_298_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_299_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_299_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_300_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_300_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_301_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_301_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_302_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_302_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_303_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_303_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_304_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_304_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_305_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_305_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_306_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_306_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_307_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_307_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_308_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_308_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_309_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_309_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_310_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_310_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_311_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_311_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_312_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_312_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_313_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_313_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_314_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_314_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_315_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_315_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_316_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_316_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_317_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_317_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_318_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_318_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_319_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_319_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_320_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_320_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_321_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_321_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_322_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_322_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_323_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_323_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_324_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_324_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_325_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_325_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_326_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_326_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_327_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_327_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_328_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_328_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_329_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_329_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_330_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_330_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_331_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_331_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_332_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_332_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_333_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_333_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_334_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_334_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_335_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_335_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_336_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_336_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_337_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_337_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_338_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_338_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_339_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_339_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_340_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_340_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_341_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_341_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_342_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_342_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_343_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_343_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_344_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_344_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_345_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_345_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_346_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_346_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_347_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_347_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_348_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_348_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_349_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_349_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_350_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_350_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_351_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_351_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_352_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_352_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_353_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_353_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_354_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_354_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_355_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_355_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_356_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_356_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_357_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_357_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_358_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_358_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_359_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_359_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_360_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_360_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_361_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_361_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_362_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_362_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_363_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_363_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_364_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_364_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_365_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_365_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_366_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_366_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_367_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_367_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_368_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_368_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_369_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_369_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_370_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_370_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_371_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_371_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_372_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_372_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_373_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_373_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_374_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_374_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_375_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_375_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_376_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_376_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_377_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_377_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_378_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_378_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_379_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_379_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_380_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_380_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_381_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_381_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_382_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_382_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_383_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_383_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_384_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_384_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_385_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_385_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_386_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_386_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_387_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_387_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_388_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_388_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_389_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_389_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_390_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_390_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_391_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_391_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_392_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_392_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_393_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_393_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_394_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_394_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_395_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_395_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_396_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_396_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_397_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_397_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_398_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_398_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_399_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_399_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_400_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_400_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_401_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_401_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_402_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_402_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_403_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_403_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_404_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_404_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_405_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_405_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_406_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_406_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_407_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_407_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_408_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_408_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_409_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_409_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_410_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_410_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_411_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_411_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_412_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_412_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_413_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_413_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_414_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_414_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_415_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_415_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_416_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_416_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_417_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_417_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_418_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_418_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_419_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_419_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_420_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_420_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_421_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_421_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_422_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_422_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_423_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_423_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_424_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_424_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_425_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_425_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_426_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_426_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_427_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_427_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_428_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_428_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_429_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_429_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_430_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_430_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_431_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_431_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_432_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_432_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_433_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_433_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_434_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_434_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_435_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_435_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_436_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_436_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_437_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_437_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_438_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_438_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_439_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_439_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_440_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_440_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_441_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_441_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_442_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_442_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_443_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_443_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_444_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_444_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_445_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_445_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_446_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_446_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_447_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_447_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_448_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_448_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_449_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_449_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_450_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_450_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_451_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_451_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_452_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_452_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_453_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_453_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_454_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_454_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_455_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_455_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_456_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_456_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_457_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_457_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_458_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_458_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_459_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_459_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_460_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_460_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_461_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_461_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_462_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_462_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_463_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_463_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_464_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_464_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_465_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_465_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_466_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_466_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_467_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_467_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_468_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_468_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_469_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_469_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_470_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_470_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_471_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_471_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_472_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_472_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_473_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_473_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_474_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_474_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_475_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_475_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_476_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_476_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_477_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_477_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_478_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_478_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_479_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_479_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_480_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_480_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_481_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_481_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_482_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_482_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_483_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_483_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_484_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_484_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_485_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_485_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_486_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_486_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_487_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_487_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_488_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_488_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_489_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_489_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_490_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_490_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_491_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_491_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_492_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_492_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_493_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_493_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_494_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_494_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_495_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_495_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_496_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_496_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_497_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_497_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_498_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_498_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_499_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_499_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_500_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_500_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_501_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_501_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_502_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_502_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_503_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_503_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_504_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_504_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_505_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_505_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_506_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_506_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_507_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_507_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_508_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_508_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_509_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_509_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_510_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_510_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_511_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_511_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_512_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_512_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_513_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_513_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_514_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_514_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_515_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_515_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_516_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_516_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_517_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_517_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_518_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_518_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_519_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_519_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_520_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_520_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_521_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_521_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_522_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_522_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_523_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_523_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_524_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_524_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_525_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_525_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_526_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_526_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_527_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_527_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_528_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_528_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_529_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_529_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_530_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_530_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_531_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_531_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_532_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_532_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_533_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_533_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_534_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_534_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_535_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_535_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_536_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_536_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_537_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_537_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_538_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_538_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_539_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_539_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_540_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_540_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_541_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_541_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_542_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_542_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_543_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_543_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_544_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_544_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_545_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_545_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_546_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_546_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_547_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_547_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_548_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_548_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_549_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_549_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_550_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_550_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_551_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_551_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_552_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_552_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_553_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_553_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_554_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_554_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_555_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_555_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_556_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_556_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_557_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_557_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_558_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_558_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_559_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_559_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_560_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_560_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_561_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_561_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_562_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_562_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_563_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_563_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_564_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_564_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_565_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_565_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_566_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_566_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_567_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_567_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_568_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_568_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_569_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_569_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_570_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_570_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_571_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_571_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_572_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_572_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_573_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_573_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_574_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_574_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_575_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_575_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_576_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_576_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_577_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_577_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_578_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_578_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_579_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_579_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_580_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_580_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_581_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_581_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_582_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_582_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_583_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_583_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_584_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_584_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_585_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_585_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_586_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_586_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_587_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_587_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_588_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_588_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_589_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_589_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_590_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_590_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_591_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_591_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_592_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_592_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_593_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_593_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_594_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_594_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_595_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_595_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_596_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_596_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_597_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_597_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_598_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_598_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_599_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_599_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_600_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_600_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_601_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_601_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_602_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_602_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_603_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_603_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_604_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_604_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_605_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_605_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_606_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_606_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_607_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_607_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_608_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_608_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_609_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_609_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_610_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_610_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_611_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_611_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_612_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_612_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_613_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_613_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_614_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_614_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_615_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_615_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_616_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_616_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_617_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_617_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_618_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_618_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_619_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_619_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_620_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_620_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_621_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_621_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_622_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_622_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_623_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_623_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_624_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_624_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_625_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_625_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_626_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_626_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_627_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_627_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_628_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_628_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_629_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_629_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_630_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_630_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_631_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_631_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_632_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_632_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_633_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_633_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_634_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_634_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_635_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_635_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_636_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_636_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_637_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_637_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_638_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_638_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_639_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_639_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_640_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_640_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_641_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_641_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_642_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_642_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_643_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_643_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_644_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_644_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_645_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_645_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_646_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_646_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_647_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_647_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_648_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_648_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_649_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_649_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_650_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_650_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_651_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_651_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_652_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_652_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_653_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_653_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_654_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_654_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_655_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_655_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_656_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_656_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_657_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_657_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_658_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_658_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_659_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_659_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_660_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_660_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_661_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_661_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_662_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_662_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_663_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_663_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_664_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_664_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_665_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_665_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_666_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_666_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_667_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_667_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_668_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_668_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_669_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_669_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_670_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_670_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_671_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_671_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_672_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_672_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_673_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_673_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_674_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_674_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_675_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_675_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_676_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_676_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_677_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_677_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_678_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_678_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_679_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_679_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_680_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_680_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_681_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_681_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_682_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_682_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_683_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_683_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_684_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_684_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_685_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_685_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_686_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_686_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_687_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_687_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_688_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_688_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_689_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_689_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_690_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_690_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_691_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_691_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_692_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_692_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_693_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_693_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_694_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_694_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_695_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_695_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_696_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_696_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_697_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_697_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_698_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_698_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_699_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_699_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_700_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_700_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_701_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_701_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_702_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_702_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_703_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_703_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_704_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_704_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_705_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_705_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_706_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_706_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_707_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_707_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_708_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_708_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_709_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_709_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_710_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_710_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_711_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_711_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_712_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_712_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_713_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_713_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_714_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_714_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_715_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_715_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_716_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_716_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_717_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_717_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_718_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_718_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_719_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_719_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_720_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_720_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_721_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_721_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_722_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_722_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_723_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_723_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_724_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_724_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_725_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_725_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_726_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_726_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_727_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_727_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_728_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_728_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_729_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_729_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_730_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_730_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_731_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_731_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_732_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_732_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_733_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_733_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_734_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_734_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_735_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_735_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_736_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_736_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_737_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_737_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_738_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_738_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_739_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_739_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_740_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_740_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_741_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_741_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_742_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_742_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_743_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_743_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_744_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_744_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_745_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_745_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_746_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_746_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_747_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_747_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_748_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_748_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_749_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_749_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_750_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_750_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_751_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_751_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_752_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_752_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_753_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_753_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_754_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_754_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_755_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_755_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_756_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_756_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_757_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_757_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_758_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_758_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_759_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_759_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_760_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_760_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_761_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_761_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_762_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_762_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_763_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_763_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_764_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_764_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_765_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_765_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_766_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_766_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_767_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_767_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_768_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_768_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_769_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_769_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_770_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_770_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_771_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_771_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_772_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_772_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_773_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_773_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_774_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_774_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_775_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_775_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_776_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_776_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_777_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_777_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_778_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_778_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_779_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_779_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_780_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_780_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_781_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_781_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_782_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_782_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_783_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_783_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_784_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_784_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_785_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_785_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_786_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_786_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_787_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_787_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_788_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_788_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_789_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_789_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_790_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_790_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_791_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_791_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_792_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_792_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_793_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_793_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_794_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_794_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_795_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_795_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_796_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_796_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_797_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_797_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_798_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_798_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_799_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_799_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_800_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_800_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_801_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_801_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_802_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_802_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_803_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_803_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_804_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_804_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_805_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_805_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_806_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_806_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_807_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_807_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_808_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_808_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_809_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_809_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_810_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_810_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_811_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_811_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_812_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_812_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_813_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_813_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_814_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_814_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_815_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_815_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_816_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_816_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_817_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_817_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_818_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_818_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_819_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_819_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_820_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_820_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_821_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_821_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_822_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_822_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_823_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_823_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_824_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_824_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_825_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_825_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_826_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_826_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_827_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_827_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_828_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_828_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_829_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_829_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_830_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_830_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_831_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_831_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_832_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_832_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_833_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_833_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_834_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_834_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_835_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_835_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_836_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_836_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_837_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_837_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_838_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_838_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_839_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_839_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_840_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_840_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_841_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_841_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_842_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_842_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_843_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_843_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_844_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_844_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_845_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_845_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_846_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_846_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_847_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_847_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_848_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_848_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_849_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_849_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_850_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_850_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_851_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_851_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_852_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_852_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_853_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_853_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_854_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_854_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_855_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_855_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_856_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_856_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_857_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_857_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_858_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_858_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_859_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_859_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_860_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_860_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_861_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_861_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_862_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_862_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_863_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_863_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_864_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_864_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_865_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_865_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_866_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_866_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_867_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_867_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_868_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_868_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_869_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_869_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_870_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_870_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_871_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_871_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_872_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_872_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_873_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_873_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_874_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_874_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_875_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_875_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_876_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_876_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_877_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_877_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_878_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_878_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_879_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_879_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_880_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_880_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_881_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_881_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_882_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_882_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_883_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_883_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_884_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_884_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_885_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_885_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_886_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_886_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_887_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_887_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_888_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_888_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_889_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_889_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_890_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_890_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_891_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_891_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_892_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_892_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_893_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_893_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_894_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_894_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_895_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_895_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_896_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_896_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_897_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_897_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_898_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_898_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_899_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_899_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_900_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_900_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_901_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_901_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_902_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_902_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_903_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_903_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_904_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_904_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_905_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_905_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_906_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_906_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_907_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_907_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_908_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_908_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_909_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_909_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_910_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_910_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_911_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_911_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_912_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_912_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_913_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_913_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_914_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_914_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_915_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_915_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_916_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_916_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_917_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_917_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_918_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_918_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_919_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_919_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_920_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_920_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_921_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_921_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_922_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_922_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_923_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_923_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_924_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_924_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_925_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_925_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_926_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_926_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_927_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_927_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_928_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_928_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_929_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_929_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_930_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_930_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_931_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_931_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_932_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_932_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_933_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_933_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_934_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_934_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_935_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_935_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_936_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_936_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_937_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_937_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_938_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_938_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_939_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_939_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_940_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_940_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_941_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_941_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_942_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_942_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_943_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_943_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_944_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_944_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_945_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_945_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_946_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_946_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_947_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_947_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_948_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_948_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_949_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_949_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_950_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_950_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_951_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_951_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_952_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_952_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_953_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_953_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_954_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_954_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_955_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_955_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_956_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_956_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_957_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_957_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_958_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_958_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_959_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_959_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_960_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_960_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_961_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_961_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_962_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_962_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_963_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_963_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_964_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_964_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_965_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_965_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_966_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_966_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_967_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_967_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_968_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_968_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_969_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_969_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_970_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_970_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_971_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_971_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_972_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_972_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_973_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_973_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_974_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_974_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_975_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_975_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_976_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_976_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_977_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_977_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_978_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_978_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_979_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_979_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_980_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_980_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_981_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_981_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_982_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_982_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_983_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_983_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_984_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_984_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_985_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_985_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_986_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_986_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_987_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_987_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_988_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_988_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_989_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_989_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_990_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_990_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_991_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_991_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_992_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_992_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_993_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_993_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_994_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_994_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_995_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_995_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_996_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_996_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_997_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_997_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_998_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_998_truth",
+    "final_decision": 0
+  },
+  {
+    "id": "labeled_999_hallu",
+    "final_decision": 1
+  },
+  {
+    "id": "labeled_999_truth",
+    "final_decision": 0
+  }
+]
