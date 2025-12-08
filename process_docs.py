@@ -56,5 +56,6 @@ def process_docs(dataset: str = "medhallu", subset: str = "labeled"):
 
 
 if __name__ == "__main__":
-    process_docs(dataset="medhallu", subset="labeled")
-    process_docs(dataset="medhallu", subset="artificial")
+    process_docs(dataset="psiloqa", subset="test")
+    process_docs(dataset="psiloqa", subset="train")
+    process_docs(dataset="psiloqa", subset="validation")
