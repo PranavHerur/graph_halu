@@ -746,7 +746,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "torch-geometric", specifier = ">=2.7.0" },
-    { name = "zensols-calamr", specifier = "==1.0.0" },
+    { name = "zensols-calamr", specifier = "==1.1.0" },
 ]
 
 [[package]]
@@ -2872,11 +2872,11 @@ wheels = [
 
 [[package]]
 name = "urllib3"
-version = "2.6.0"
+version = "2.6.1"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/1c/43/554c2569b62f49350597348fc3ac70f786e3c32e7f19d266e19817812dd3/urllib3-2.6.0.tar.gz", hash = "sha256:cb9bcef5a4b345d5da5d145dc3e30834f58e8018828cbc724d30b4cb7d4d49f1", size = 432585, upload-time = "2025-12-05T15:08:47.885Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/5e/1d/0f3a93cca1ac5e8287842ed4eebbd0f7a991315089b1a0b01c7788aa7b63/urllib3-2.6.1.tar.gz", hash = "sha256:5379eb6e1aba4088bae84f8242960017ec8d8e3decf30480b3a1abdaa9671a3f", size = 432678, upload-time = "2025-12-08T15:25:26.773Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/56/1a/9ffe814d317c5224166b23e7c47f606d6e473712a2fad0f704ea9b99f246/urllib3-2.6.0-py3-none-any.whl", hash = "sha256:c90f7a39f716c572c4e3e58509581ebd83f9b59cced005b7db7ad2d22b0db99f", size = 131083, upload-time = "2025-12-05T15:08:45.983Z" },
+    { url = "https://files.pythonhosted.org/packages/bc/56/190ceb8cb10511b730b564fb1e0293fa468363dbad26145c34928a60cb0c/urllib3-2.6.1-py3-none-any.whl", hash = "sha256:e67d06fe947c36a7ca39f4994b08d73922d40e6cca949907be05efa6fd75110b", size = 131138, upload-time = "2025-12-08T15:25:25.51Z" },
 ]
 
 [[package]]
@@ -3204,7 +3204,7 @@ wheels = [
 
 [[package]]
 name = "zensols-amr"
-version = "0.2.6"
+version = "0.2.8"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "amrlib" },
@@ -3219,7 +3219,7 @@ dependencies = [
     { name = "zensols-nlp" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/a7/97/c7fd02eb6cb201a54995badda85f1e036f479b8d7f38a3a1636276326b11/zensols_amr-0.2.6-py3-none-any.whl", hash = "sha256:1f4e74a413760e8105f753e5fc0cc433b164f145ee489f6fb9e32e42ff77ce44", size = 104489, upload-time = "2025-12-03T03:35:04.697Z" },
+    { url = "https://files.pythonhosted.org/packages/b3/0d/07a47691f10552de9e8b89ca08ad347cdfed931e372fca1007606a3249cf/zensols_amr-0.2.8-py3-none-any.whl", hash = "sha256:4d36b41b21ab322caf2cd715dcca55ac7f16a71466f8d317ae1eb3bb2b967a7c", size = 104972, upload-time = "2025-12-08T22:45:39.288Z" },
 ]
 
 [[package]]
@@ -3239,7 +3239,7 @@ wheels = [
 
 [[package]]
 name = "zensols-calamr"
-version = "1.0.0"
+version = "1.1.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "chart-studio" },
@@ -3251,7 +3251,7 @@ dependencies = [
     { name = "zensols-util" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/3c/2f/72128c68d7d3ae69a32f60636b6dcf4e31fe46fd2606faf78ffbbd71577c/zensols_calamr-1.0.0-py3-none-any.whl", hash = "sha256:0d41c2e8649c87a1ed11a0f25ef6e3e7fcf968a58ef4cdf569531b643a16dfb4", size = 124186, upload-time = "2025-12-03T05:41:28.564Z" },
+    { url = "https://files.pythonhosted.org/packages/1d/d2/18807dddeeb325d86363daa747900a37337a2cb08e8e6223fd409ad09a9d/zensols_calamr-1.1.0-py3-none-any.whl", hash = "sha256:8833f7a05e6d3f4860de80547f3a0016c9845ceffc40dba331ffc4fd8f1ae3c6", size = 126252, upload-time = "2025-12-09T00:05:29.204Z" },
 ]
 
 [[package]]

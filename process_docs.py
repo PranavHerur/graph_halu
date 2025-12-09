@@ -29,7 +29,7 @@ def process_docs(dataset: str = "medhallu", subset: str = "labeled"):
     corpus, labels = _get_corpus(dataset=dataset, subset=subset)
 
     # make output paths
-    output_path = Path(f"{config.RESULTS_DIR}/medhallu/v8/{subset}")
+    output_path = Path(f"{config.RESULTS_DIR}/{dataset}/{subset}")
     output_path.mkdir(parents=True, exist_ok=True)
 
     # make pyg output paths
@@ -56,6 +56,16 @@ def process_docs(dataset: str = "medhallu", subset: str = "labeled"):
 
 
 if __name__ == "__main__":
-    process_docs(dataset="psiloqa", subset="test")
-    process_docs(dataset="psiloqa", subset="train")
-    process_docs(dataset="psiloqa", subset="validation")
+    from argparse import ArgumentParser
+
+    argparser = ArgumentParser()
+    argparser.add_argument("--dataset", type=str, default="psiloqa")
+    args = argparser.parse_args()
+
+    if args.dataset == "psiloqa":
+        process_docs(dataset="psiloqa", subset="test")
+        process_docs(dataset="psiloqa", subset="train")
+        process_docs(dataset="psiloqa", subset="validation")
+    elif args.dataset == "medhallu":
+        process_docs(dataset="medhallu", subset="labeled")
+        process_docs(dataset="medhallu", subset="artificial")
