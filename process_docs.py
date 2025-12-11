@@ -1,19 +1,29 @@
 import json
-from zensols.calamr import FlowGraphResult, ApplicationFactory
-from pyg_export import PyTorchGeometricExporter as PyGExport
+import random
 from pathlib import Path
+from typing import Any
+
+import numpy as np
 import torch
+from zensols.calamr import ApplicationFactory, FlowGraphResult
+
 import config
-from typing import Dict, Any, Tuple
+from pyg_export import PyTorchGeometricExporter as PyGExport
 
 
-def _load_labels_as_map(dataset: str, subset: str) -> Dict[str, int]:
+def _set_seed(seed: int = 42):
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+
+
+def _load_labels_as_map(dataset: str, subset: str) -> dict[str, int]:
     with open(f"calamr_input/{dataset}/{subset}/final_decisions.json") as f:
         final_decisions = json.load(f)
     return {decision["id"]: decision["final_decision"] for decision in final_decisions}
 
 
-def _get_corpus(dataset: str, subset: str) -> Tuple[Dict[str, Any], Dict[str, int]]:
+def _get_corpus(dataset: str, subset: str) -> tuple[dict[str, Any], dict[str, int]]:
     with open(f"calamr_input/{dataset}/{subset}/calamr_data.json") as f:
         corpus = json.load(f)
 
@@ -22,7 +32,9 @@ def _get_corpus(dataset: str, subset: str) -> Tuple[Dict[str, Any], Dict[str, in
     return corpus, labels
 
 
-def process_docs(dataset: str = "medhallu", subset: str = "labeled"):
+def process_docs(dataset: str = "medhallu", subset: str = "labeled", seed: int = 42):
+    _set_seed(seed=seed)
+
     resources = ApplicationFactory.get_resources()
     pyg_export = PyGExport()
 
@@ -60,6 +72,7 @@ if __name__ == "__main__":
 
     argparser = ArgumentParser()
     argparser.add_argument("--dataset", type=str, default="psiloqa")
+    argparser.add_argument("--seed", type=int, default=42)
     args = argparser.parse_args()
 
     if args.dataset == "psiloqa":

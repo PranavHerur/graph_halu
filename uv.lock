@@ -746,7 +746,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "torch-geometric", specifier = ">=2.7.0" },
-    { name = "zensols-calamr", specifier = "==1.1.0" },
+    { name = "zensols-calamr", specifier = "==1.1.1" },
 ]
 
 [[package]]
@@ -3239,7 +3239,7 @@ wheels = [
 
 [[package]]
 name = "zensols-calamr"
-version = "1.1.0"
+version = "1.1.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "chart-studio" },
@@ -3251,7 +3251,7 @@ dependencies = [
     { name = "zensols-util" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/1d/d2/18807dddeeb325d86363daa747900a37337a2cb08e8e6223fd409ad09a9d/zensols_calamr-1.1.0-py3-none-any.whl", hash = "sha256:8833f7a05e6d3f4860de80547f3a0016c9845ceffc40dba331ffc4fd8f1ae3c6", size = 126252, upload-time = "2025-12-09T00:05:29.204Z" },
+    { url = "https://files.pythonhosted.org/packages/9d/5f/f6a0d96930078f9b3b64b379836384f3d6df1c2fa3fb20e4075ba2673d0e/zensols_calamr-1.1.1-py3-none-any.whl", hash = "sha256:fac70775a62bac6fb9cb36883009382860e0bebafb9295402e4f71b579f838b6", size = 127329, upload-time = "2025-12-10T14:20:13.721Z" },
 ]
 
 [[package]]
