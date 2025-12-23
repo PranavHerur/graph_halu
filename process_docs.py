@@ -57,6 +57,10 @@ def process_docs(dataset: str = "medhallu", subset: str = "labeled", seed: int =
         for doc_id in docs:
             try:
                 flow: FlowGraphResult = r.alignments[doc_id]
+                if flow.is_failure():
+                    print(f"Error processing document {doc_id}")
+                    continue
+
                 pyg_data = pyg_export.export_alignment_graph(flow)
                 label = labels[doc_id]
                 pyg_data.y = torch.tensor([label], dtype=torch.long)
