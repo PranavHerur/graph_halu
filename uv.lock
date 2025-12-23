@@ -746,7 +746,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "torch-geometric", specifier = ">=2.7.0" },
-    { name = "zensols-calamr", specifier = "==1.1.1" },
+    { name = "zensols-calamr", specifier = "==1.2.1" },
 ]
 
 [[package]]
@@ -3204,7 +3204,7 @@ wheels = [
 
 [[package]]
 name = "zensols-amr"
-version = "0.2.8"
+version = "0.2.9"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "amrlib" },
@@ -3219,7 +3219,7 @@ dependencies = [
     { name = "zensols-nlp" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/b3/0d/07a47691f10552de9e8b89ca08ad347cdfed931e372fca1007606a3249cf/zensols_amr-0.2.8-py3-none-any.whl", hash = "sha256:4d36b41b21ab322caf2cd715dcca55ac7f16a71466f8d317ae1eb3bb2b967a7c", size = 104972, upload-time = "2025-12-08T22:45:39.288Z" },
+    { url = "https://files.pythonhosted.org/packages/4b/75/61a67a226de291d9373ec60636faf2abe5d9b18e6e2f76e4572d3224f618/zensols_amr-0.2.9-py3-none-any.whl", hash = "sha256:84453fd55fc8d28336bef5bb3792757adb28f76cf3b31d498d1ee7c791e6e7f0", size = 105029, upload-time = "2025-12-23T02:54:58.269Z" },
 ]
 
 [[package]]
@@ -3239,19 +3239,20 @@ wheels = [
 
 [[package]]
 name = "zensols-calamr"
-version = "1.1.1"
+version = "1.2.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "chart-studio" },
     { name = "igraph" },
     { name = "pyvis" },
     { name = "zensols-amr" },
+    { name = "zensols-deeplearn" },
     { name = "zensols-propbankdb" },
     { name = "zensols-rend" },
     { name = "zensols-util" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/9d/5f/f6a0d96930078f9b3b64b379836384f3d6df1c2fa3fb20e4075ba2673d0e/zensols_calamr-1.1.1-py3-none-any.whl", hash = "sha256:fac70775a62bac6fb9cb36883009382860e0bebafb9295402e4f71b579f838b6", size = 127329, upload-time = "2025-12-10T14:20:13.721Z" },
+    { url = "https://files.pythonhosted.org/packages/d5/0b/11051bbcbb4ca1ac268f7ef02b55a35391b2876d7eb486fdd46d312557f7/zensols_calamr-1.2.1-py3-none-any.whl", hash = "sha256:68803b0edc19ed5d65710c8b07e7b9394d1a78500b8f51e1ff81213aa6c19486", size = 127187, upload-time = "2025-12-23T03:15:18.128Z" },
 ]
 
 [[package]]
@@ -3288,7 +3289,7 @@ wheels = [
 
 [[package]]
 name = "zensols-deeplearn"
-version = "1.14.5"
+version = "1.14.7"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "iterative-stratification" },
@@ -3301,7 +3302,7 @@ dependencies = [
     { name = "zensols-install" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/73/d5/a0b1b5bb3d5f36adb8fec83755547508f998812e3ed5b6aeb6d36a396318/zensols_deeplearn-1.14.5-py3-none-any.whl", hash = "sha256:c814e3549dccb44f59f2c7c962d7087fbdae445edee6b8653780865562bed4ad", size = 194729, upload-time = "2025-10-26T19:36:24.752Z" },
+    { url = "https://files.pythonhosted.org/packages/08/20/be3dc436123049197d31a75422dd58a0c3b076fe50be5213a4a2940a93a7/zensols_deeplearn-1.14.7-py3-none-any.whl", hash = "sha256:499145899e1bd6a5d9c91afc293e6922e35620a6d88463b1c9673cfe46dde97a", size = 195403, upload-time = "2025-12-21T02:24:48.055Z" },
 ]
 
 [[package]]
