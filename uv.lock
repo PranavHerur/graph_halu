@@ -746,7 +746,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "torch-geometric", specifier = ">=2.7.0" },
-    { name = "zensols-calamr", specifier = "==1.2.1" },
+    { name = "zensols-calamr", specifier = "==1.2.2" },
 ]
 
 [[package]]
@@ -3204,7 +3204,7 @@ wheels = [
 
 [[package]]
 name = "zensols-amr"
-version = "0.2.9"
+version = "0.2.10"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "amrlib" },
@@ -3219,7 +3219,7 @@ dependencies = [
     { name = "zensols-nlp" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/4b/75/61a67a226de291d9373ec60636faf2abe5d9b18e6e2f76e4572d3224f618/zensols_amr-0.2.9-py3-none-any.whl", hash = "sha256:84453fd55fc8d28336bef5bb3792757adb28f76cf3b31d498d1ee7c791e6e7f0", size = 105029, upload-time = "2025-12-23T02:54:58.269Z" },
+    { url = "https://files.pythonhosted.org/packages/55/14/6a627661d42b0c1b8acf79a685b4b7a88361bc16bd3e205ae37350e99a5f/zensols_amr-0.2.10-py3-none-any.whl", hash = "sha256:7b43dcd11fd87ada1be28df45c77c084a015a7871e70aa12da3b1e48a6958be7", size = 106241, upload-time = "2025-12-23T23:40:29.904Z" },
 ]
 
 [[package]]
@@ -3239,7 +3239,7 @@ wheels = [
 
 [[package]]
 name = "zensols-calamr"
-version = "1.2.1"
+version = "1.2.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "chart-studio" },
@@ -3252,7 +3252,7 @@ dependencies = [
     { name = "zensols-util" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d5/0b/11051bbcbb4ca1ac268f7ef02b55a35391b2876d7eb486fdd46d312557f7/zensols_calamr-1.2.1-py3-none-any.whl", hash = "sha256:68803b0edc19ed5d65710c8b07e7b9394d1a78500b8f51e1ff81213aa6c19486", size = 127187, upload-time = "2025-12-23T03:15:18.128Z" },
+    { url = "https://files.pythonhosted.org/packages/7b/60/cc65545f3255ad1a08f8a21ace8cfc2ac6ea9a41079c467cfa5f3182fbe8/zensols_calamr-1.2.2-py3-none-any.whl", hash = "sha256:566b9080db3389269df04fa659bbbe66d2987c9ed4d27823ab618686844355c3", size = 127295, upload-time = "2025-12-24T00:26:13.586Z" },
 ]
 
 [[package]]
