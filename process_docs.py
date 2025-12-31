@@ -1,20 +1,16 @@
 import json
-import random
+import logging
 from pathlib import Path
 from typing import Any
 
-import numpy as np
 import torch
 from zensols.calamr import ApplicationFactory, FlowGraphResult
+from zensols.deeplearn.torchconfig import TorchConfig
 
 import config
 from pyg_export import PyTorchGeometricExporter as PyGExport
 
-
-def _set_seed(seed: int = 42):
-    random.seed(seed)
-    np.random.seed(seed)
-    torch.manual_seed(seed)
+logger = logging.getLogger(__name__)
 
 
 def _load_labels_as_map(dataset: str, subset: str) -> dict[str, int]:
@@ -33,8 +29,6 @@ def _get_corpus(dataset: str, subset: str) -> tuple[dict[str, Any], dict[str, in
 
 
 def process_docs(dataset: str = "medhallu", subset: str = "labeled", seed: int = 42):
-    _set_seed(seed=seed)
-
     resources = ApplicationFactory.get_resources()
     pyg_export = PyGExport()
 
@@ -57,7 +51,7 @@ def process_docs(dataset: str = "medhallu", subset: str = "labeled", seed: int =
         for doc_id in docs:
             try:
                 flow: FlowGraphResult = r.alignments[doc_id]
-                if flow.is_failure():
+                if flow.is_failure:
                     print(f"Error processing document {doc_id}")
                     continue
 
@@ -68,7 +62,7 @@ def process_docs(dataset: str = "medhallu", subset: str = "labeled", seed: int =
                 pyg_path = Path(output_path) / "pyg" / f"{doc_id}.pt"
                 torch.save(pyg_data, pyg_path)
             except Exception:
-                print(f"Error processing document {doc_id}")
+                logger.exception(f"Error processing document {doc_id}")
 
 
 if __name__ == "__main__":
@@ -78,6 +72,8 @@ if __name__ == "__main__":
     argparser.add_argument("--dataset", type=str, default="psiloqa")
     argparser.add_argument("--seed", type=int, default=42)
     args = argparser.parse_args()
+
+    TorchConfig.init(seed_kwargs=dict(seed=args.seed))
 
     if args.dataset == "psiloqa":
         process_docs(dataset="psiloqa", subset="test")
