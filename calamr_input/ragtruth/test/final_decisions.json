@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "11904-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "11905-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "11907-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "11908-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "11909-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12012-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12013-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12014-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12015-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12016-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12017-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12018-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12019-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12020-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12021-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12022-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12023-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12042-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12044-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12045-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12046-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12047-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12066-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12067-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12068-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12069-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12070-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12071-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12102-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12103-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12104-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12105-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12106-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12107-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12132-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12133-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12134-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12135-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12136-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12137-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12180-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12181-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12182-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12183-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12184-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12185-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12216-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12218-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12219-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12220-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12221-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12228-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12229-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12230-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12231-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12232-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12233-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12240-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12241-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12242-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12243-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12244-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12245-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12258-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12260-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12261-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12262-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12263-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12294-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12295-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12296-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12297-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12298-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12299-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12330-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12331-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12333-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12334-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12335-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12342-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12343-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12344-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12345-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12346-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12347-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12432-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12433-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12434-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12435-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12436-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12437-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12438-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12439-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12440-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12441-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12442-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12443-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12444-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12445-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12446-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12447-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12448-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12449-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12456-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12457-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12458-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12459-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12460-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12461-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12468-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12469-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12470-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12471-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12472-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12473-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12516-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12517-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12518-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12519-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12520-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12521-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12522-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12523-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12524-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12525-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12526-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12527-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12552-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12553-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12554-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12555-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12556-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12557-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12600-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12601-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12602-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12603-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12604-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12605-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12618-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12619-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12620-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12621-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12622-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12623-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12690-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12691-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12692-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12693-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12694-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12695-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12702-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12703-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12704-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12705-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12706-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12707-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12762-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12763-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12764-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12765-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12766-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12767-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12840-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12842-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12843-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12844-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12845-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12900-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12901-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12902-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12903-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "12904-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12905-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12912-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12913-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12914-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12915-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12916-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "12917-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13038-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13039-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13040-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13041-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13042-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13043-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13068-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13069-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13070-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13071-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13072-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13073-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13104-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13105-QA-gpt-3.5-turbo-0613-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13106-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13107-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13108-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13109-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13128-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13129-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13130-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13131-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13132-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13133-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13134-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13135-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13136-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13137-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13138-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13139-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13152-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13153-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13154-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13155-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13156-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13157-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13158-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13159-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13160-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13161-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13162-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13163-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13206-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13207-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13208-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13209-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13210-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13211-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13230-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13231-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13232-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13233-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13234-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13235-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13260-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13261-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13262-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13263-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13264-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13265-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13290-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13291-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13292-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13293-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13294-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13295-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13308-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13309-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13310-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13311-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13312-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13313-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13338-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13339-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13340-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13341-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13342-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13343-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13362-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13363-QA-gpt-3.5-turbo-0613-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13364-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13365-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13366-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13367-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13374-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13375-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13376-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13377-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13378-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13379-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13428-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13429-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13430-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13431-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13432-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13433-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13440-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13441-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13442-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13443-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13444-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13445-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13464-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13465-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13466-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13467-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13468-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13469-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13488-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13489-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13490-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13491-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13492-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13493-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13530-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13531-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13532-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13533-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13534-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13535-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13560-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13561-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13562-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13563-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13564-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13565-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13716-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13717-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13718-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13719-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13720-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13721-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13740-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13741-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13742-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13743-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13744-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13745-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13908-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13909-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13910-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13911-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13912-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13913-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13914-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13915-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13916-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13917-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13918-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13919-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "13938-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13939-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13940-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13941-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13942-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "13943-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14004-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14005-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14006-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14007-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14008-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14009-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14052-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14053-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14054-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14055-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14056-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14057-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14094-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14095-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14096-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14097-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14098-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14099-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14130-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14131-QA-gpt-3.5-turbo-0613-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14132-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14133-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14134-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14135-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14196-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14197-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14198-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14199-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14200-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14201-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14208-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14209-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14211-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14212-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14213-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14280-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14281-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14282-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14283-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14284-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14285-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14286-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14287-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14288-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14289-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14290-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14291-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14292-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14293-QA-gpt-3.5-turbo-0613-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14294-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14295-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14296-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14297-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14322-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14323-QA-gpt-3.5-turbo-0613-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14324-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14325-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14326-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14327-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14352-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14353-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14354-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14355-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14356-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14357-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14364-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14365-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14367-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14368-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14369-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14376-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14377-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14378-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14379-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14380-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14381-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14394-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14395-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14396-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14397-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14398-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14399-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14466-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14467-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14468-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14469-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14470-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14471-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14502-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14503-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14504-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14505-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14506-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14507-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14508-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14509-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14510-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14511-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14512-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14513-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14688-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14689-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14690-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14691-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14692-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14693-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14700-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14701-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14702-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14703-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14704-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14705-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14712-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14713-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14714-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14715-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14716-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14717-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14742-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14743-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14744-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14745-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14746-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14747-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14748-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14749-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14750-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14751-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14752-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14753-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14760-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14761-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14762-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14763-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14764-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14765-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14772-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14773-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14774-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14775-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14776-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14777-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14802-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14803-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14805-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14806-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14807-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14814-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14815-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14816-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14817-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14818-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14819-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14844-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14845-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14846-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14847-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14848-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14849-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14856-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14857-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14858-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14859-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14860-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "14861-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14886-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14889-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14890-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14891-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14994-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14995-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14996-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14997-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "14998-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15006-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15007-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15008-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15009-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15010-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15011-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15102-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15103-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15104-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15105-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15106-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15107-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15126-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15127-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15128-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15129-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15130-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15131-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15174-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15175-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15177-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15178-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15179-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15192-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15195-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15196-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15197-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15198-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15199-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15200-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15201-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15202-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15203-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15204-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15205-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15207-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15208-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15209-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15270-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15271-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15272-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15273-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15274-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15275-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15342-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15343-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15344-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15345-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15346-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15347-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15456-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15457-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15458-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15459-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15460-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15461-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15462-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15463-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15464-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15465-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15466-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15467-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15480-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15481-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15482-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15483-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15484-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15485-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15552-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15553-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15554-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15555-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15556-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15557-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15624-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15625-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15626-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15627-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15628-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15629-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15648-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15649-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15650-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15651-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15652-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15653-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15672-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15673-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15674-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15675-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15676-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15677-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15684-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15685-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15686-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15687-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15688-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15689-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15708-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15709-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15710-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15711-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15712-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15713-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15714-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15715-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15716-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15717-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15718-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15719-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15726-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15727-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15728-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15729-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15730-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15731-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15732-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15733-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15734-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15735-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15736-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15737-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15750-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15751-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15753-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15754-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15755-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15774-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15775-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15776-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15777-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15778-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15779-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15780-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15781-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15782-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15784-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15785-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15786-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15787-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15788-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15789-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15790-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15791-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15900-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15901-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15902-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15903-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15904-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15905-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15924-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15925-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15926-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15927-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15928-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15929-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "15930-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15933-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15934-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15935-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15966-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15967-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15969-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15970-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "15971-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16056-QA-gpt-4-0613-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16057-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16058-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16059-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16060-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16061-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16116-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16117-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16118-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16119-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16120-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16121-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16146-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16147-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16148-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16149-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16150-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16151-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16152-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16153-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16154-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16155-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16156-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16157-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16356-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16357-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16358-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16359-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16360-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16361-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16416-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16417-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16418-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16419-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16420-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16421-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16452-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16453-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16454-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16455-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16456-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16457-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16464-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16465-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16466-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16467-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16468-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16469-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16506-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16507-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16509-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16510-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16511-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16560-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16561-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16562-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16563-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16564-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16565-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16632-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16633-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16634-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16635-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16636-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16637-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16662-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16663-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16664-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16665-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16666-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16667-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16686-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16687-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16688-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16689-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16690-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16691-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16770-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16771-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16772-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16773-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16774-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16775-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16794-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16795-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16796-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16797-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16798-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16799-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16848-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16849-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16850-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16851-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16852-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16853-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16878-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16879-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16880-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16881-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16882-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16883-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16890-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16891-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16892-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16893-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16894-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16895-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16896-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16897-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16898-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "16899-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16900-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16901-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16902-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16903-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16904-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16905-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16906-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16907-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16932-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16933-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16934-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16935-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16936-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "16937-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17052-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17053-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17054-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17055-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17056-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17057-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17058-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17059-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17060-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "17061-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17062-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17063-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17100-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17101-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17102-QA-mistral-7B-instruct-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "17103-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17104-QA-llama-2-13b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "17105-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "17112-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17115-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17116-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17117-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17196-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17197-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17198-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17199-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "17200-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17201-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17232-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17233-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17234-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17235-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17236-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17237-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17250-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17251-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17252-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17253-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17254-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17255-QA-llama-2-70b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "17280-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17281-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17282-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17283-QA-llama-2-7b-chat-test-hallucination",
+    "final_decision": 1
+  },
+  {
+    "id": "17284-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17285-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17394-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17395-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17396-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17397-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17398-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17399-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17514-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17515-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17516-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17517-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17518-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17519-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17562-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17564-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17565-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17566-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17567-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17568-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17569-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17570-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17571-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17572-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17573-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17754-QA-gpt-4-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17755-QA-gpt-3.5-turbo-0613-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17756-QA-mistral-7B-instruct-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17757-QA-llama-2-7b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17758-QA-llama-2-13b-chat-test-valid",
+    "final_decision": 0
+  },
+  {
+    "id": "17759-QA-llama-2-70b-chat-test-valid",
+    "final_decision": 0
+  }
+]
