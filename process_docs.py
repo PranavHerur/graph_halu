@@ -86,5 +86,8 @@ if __name__ == "__main__":
         process_docs(dataset="pubmedqa", subset="labeled")
     elif args.dataset == "halueval":
         process_docs(dataset="halueval", subset="qa")
+    elif args.dataset == "ragtruth":
+        process_docs(dataset="ragtruth", subset="test")
+        process_docs(dataset="ragtruth", subset="train")
     else:
         raise ValueError(f"Invalid dataset: {args.dataset}")
